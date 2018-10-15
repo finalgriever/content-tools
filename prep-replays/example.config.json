@@ -1,0 +1,5 @@
+{
+    "Source": "..\\..\\other files\\from",
+    "Destination": "..\\..\\other files\\to",
+    "Prefix": "Prefix"
+}
